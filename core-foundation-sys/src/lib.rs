@@ -20,6 +20,8 @@
 )]
 extern "C" {}
 
+extern crate core;
+
 pub mod array;
 pub mod attributed_string;
 pub mod bag;
